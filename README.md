@@ -4,7 +4,7 @@
 workshop. I worked this workshop on their editor AKA "workspace" and did it on a local copy as well, so I can also commit it
 to GitHub and have extra practice and give myself the opportunity to continue to use git and have activity on my GitHub account. 
 
-**Timeline for Index.html:**<br>
+**Timeline for index.html:**<br>
 
 - [x] **index.html | 1st Step:** Link to the 'index' and 'about' HTML files.
 - [x] **index.html | 2nd Step:** Display the image 'header-img.jpg' located in the 'images' folder.
@@ -16,7 +16,7 @@ to GitHub and have extra practice and give myself the opportunity to continue to
 - [x] **index.html | 8th Step:** Link the file 'index.html to husky.html' in folder posts.
 - [x] **index.html | 9th Step:** Link the file 'styles.css to index.css' in folder CSS.
 
-**Timeline for About.html:**<br>
+**Timeline for about.html:**<br>
 - [x] **about.html | 1st Step:** Link 'index.html to about.html and about.html to about.html'.
 - [x] **about.html | 2nd Step:** Display the image 'header-img.jpg' located in the 'images' folder.
 - [x] **about.html | 3rd Step:** Link the file 'styles.css to about.html' in folder CSS.
