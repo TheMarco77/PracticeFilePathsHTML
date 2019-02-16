@@ -10,10 +10,10 @@ workshop. I worked this workshop on their editor AKA "workspace" and did it on a
 - [x] **index.html | 3rd Step:** Display the image 'beagle' located in the 'images/featured' folder.
 - [x] **index.html | 4th Step:** Display the image 'golden' located in the 'images/featured' folder.
 - [x] **index.html | 5th Step:** Display the image 'husky' located in the 'images/featured' folder.
-- [x] **index.html | 6th Step:** Link the file 'index to beaglel' in 'posts' folder.  
-- [x] **index.html | 7th Step:** Link the file 'index to golden' in 'posts' folder.
-- [x] **index.html | 8th Step:** Link the file 'index to husky' in 'posts' folder.
-- [x] **index.html | 9th Step:** Link the file 'styles to index' in 'CSS' folder.
+- [x] **index.html | 6th Step:** Link the file 'beaglel to index' in 'posts' folder.  
+- [x] **index.html | 7th Step:** Link the file 'golden to index' in 'posts' folder.
+- [x] **index.html | 8th Step:** Link the file 'husky to index' in 'posts' folder.
+- [x] **index.html | 9th Step:** Link the file 'styles.css file to index' in 'CSS' folder.
 
 **Timeline for about.html:**<br>
 - [x] **about.html | 1st Step:** Link 'index.html to about.html and about.html to about.html'.
