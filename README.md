@@ -18,25 +18,22 @@ workshop. I worked this workshop on their editor AKA "workspace" and did it on a
 
 **Timeline for about.html:**<br>
 - [x] **about.html | 1st Step:** Link the 'index and the about files' to the about file.
-- [x] **about.html | 2nd Step:** Display the image 'header-img.jpg' located in the 'images' folder.
-- [x] **about.html | 3rd Step:** Link the file 'styles.css to about' in the 'CSS" folder.
+- [x] **about.html | 2nd Step:** Link the file 'styles.css to about' in the 'CSS' folder.
+- [x] **about.html | 3rd Step:** Display the image 'header-img.jpg' located in the 'images' folder.
 
 **Timeline for beagle.html:**<br>
 - [x] **beagle.html | 1st Step:** Link the 'index and the about files' to the beagle file.
-- [x] **beagle.html | 2nd Step:** Display the image 'beagle.jpg' located in the 'images/featured' folder.
-- [x] **beagle.html | 3rd Step:** Link the file 'styles.css to beagle' in the 'CSS" folder.
+- [x] **beagle.html | 2nd Step:** Link the file 'styles.css to beagle' in the 'CSS' folder.
+- [x] **beagle.html | 3rd Step:** Display the image 'beagle.jpg' located in the 'images/featured' folder.
+
 
 **Timeline for golden.html:**<br>
 - [x] **golden.html | 1st Step:** Link the 'index and the about files' to the golden file.
-- [x] **golden.html | 2nd Step:** Display the image 'golden.jpg' located in the 'images/featured' folder.
-- [x] **golden.html | 3rd Step:** Link the file 'styles.css to golden' in the 'CSS" folder.
+- [x] **golden.html | 2nd Step:** Link the file 'styles.css to golden' in the 'CSS' folder.
+- [x] **golden.html | 3rd Step:** Display the image 'golden.jpg' located in the 'images/featured' folder.
+
 
 **Timeline for husky.html:**<br>
-- [x] **husky.html | 1th Step:** Link the 'index and the about files' to the husky file.
-- [x] **husky.html | 2nd Step:** Display the image 'husky.jpg' located in the 'images/featured' folder.
-- [x] **husky.html | 3rd Step:** Link the file 'styles.css to husky' in the 'CSS' folder.
-
-
-
-
-
+- [x] **husky.html | 1st Step:** Link the 'index and the about files' to the husky file.
+- [x] **husky.html | 2nd Step:** Link the file 'styles.css to husky' in the 'CSS' folder.
+- [x] **husky.html | 3rd Step:** Display the image 'husky.jpg' located in the 'images/featured' folder.
