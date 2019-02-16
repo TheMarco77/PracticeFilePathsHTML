@@ -1,6 +1,6 @@
 # TeamTreeHouse FrontEnd Web Developer | Practice HTML File Paths |
 
-* This project is by TeamTreeHouse and it's a Workshop. It is presented at the end of every sections as an optional practice
+* This project is by TeamTreeHouse and it's a Workshop. It's presented at the end of every sections as an optional practice
 workshop. I worked this workshop on their editor AKA "workspace" and did it on a local copy as well, so I can also commit to GitHub and have extra practice and give myself the opportunity to continue to use git form the command line and have activity on my GitHub account. 
 
 **Timeline for index.html:**<br>
