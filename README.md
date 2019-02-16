@@ -5,15 +5,15 @@ workshop. I worked this workshop on their editor AKA "workspace" and did it on a
 
 **Timeline for index.html:**<br>
 
-- [x] **index.html | 1st Step:** Link to the 'index and the about .html files' to the index file.
+- [x] **index.html | 1st Step:** Link to the 'index and the about files' to the index file.
 - [x] **index.html | 2nd Step:** Display the image 'header-img.jpg' located in the 'images' folder .
-- [x] **index.html | 3rd Step:** Display the image 'beagle.jpg' located in the 'images/featured' folder.
-- [x] **index.html | 4th Step:** Display the image 'golden.jpg' located in the 'images/featured' folder.
-- [x] **index.html | 5th Step:** Display the image 'husky.jpg' located in the 'images/featured' folder.
-- [x] **index.html | 6th Step:** Link the file 'index.html to beagle.html' in folder posts.  
-- [x] **index.html | 7th Step:** Link the file 'index.html to golden.html' in folder posts.
-- [x] **index.html | 8th Step:** Link the file 'index.html to husky.html' in folder posts.
-- [x] **index.html | 9th Step:** Link the file 'styles.css to index.css' in folder CSS.
+- [x] **index.html | 3rd Step:** Display the image 'beagle' located in the 'images/featured' folder.
+- [x] **index.html | 4th Step:** Display the image 'golden' located in the 'images/featured' folder.
+- [x] **index.html | 5th Step:** Display the image 'husky' located in the 'images/featured' folder.
+- [x] **index.html | 6th Step:** Link the file 'index to beaglel' in 'posts' folder.  
+- [x] **index.html | 7th Step:** Link the file 'index to golden' in 'posts' folder.
+- [x] **index.html | 8th Step:** Link the file 'index to husky' in 'posts' folder.
+- [x] **index.html | 9th Step:** Link the file 'styles to index' in 'CSS' folder.
 
 **Timeline for about.html:**<br>
 - [x] **about.html | 1st Step:** Link 'index.html to about.html and about.html to about.html'.
