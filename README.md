@@ -5,35 +5,35 @@ workshop. I worked this workshop on their editor AKA "workspace" and did it on a
 
 **Timeline for index.html:**<br>
 
-- [x] **index.html | 1st Step:** Link to the 'index and the about files' to the index file.
-- [x] **index.html | 2nd Step:** Display the image 'header-img.jpg' located in the 'images' folder .
+- [x] **index.html | 1st Step:** Link the 'index and the about files' to the index file.
+- [x] **index.html | 2nd Step:** Display the image 'header-img.jpg' located in the 'images' folder.
 - [x] **index.html | 3rd Step:** Display the image 'beagle' located in the 'images/featured' folder.
 - [x] **index.html | 4th Step:** Display the image 'golden' located in the 'images/featured' folder.
 - [x] **index.html | 5th Step:** Display the image 'husky' located in the 'images/featured' folder.
-- [x] **index.html | 6th Step:** Link the file 'beaglel to index' in 'posts' folder.  
-- [x] **index.html | 7th Step:** Link the file 'golden to index' in 'posts' folder.
-- [x] **index.html | 8th Step:** Link the file 'husky to index' in 'posts' folder.
-- [x] **index.html | 9th Step:** Link the file 'styles.css file to index' in 'CSS' folder.
+- [x] **index.html | 6th Step:** Link the file 'beaglel to index' in the 'posts' folder.  
+- [x] **index.html | 7th Step:** Link the file 'golden to index' in the 'posts' folder.
+- [x] **index.html | 8th Step:** Link the file 'husky to index' in the 'posts' folder.
+- [x] **index.html | 9th Step:** Link the file 'styles.css to index' in the 'CSS' folder.
 
 **Timeline for about.html:**<br>
-- [x] **about.html | 1st Step:** Link 'index.html to about.html and about.html to about.html'.
+- [x] **about.html | 1st Step:** Link the 'index and the about files' to the about file.
 - [x] **about.html | 2nd Step:** Display the image 'header-img.jpg' located in the 'images' folder.
-- [x] **about.html | 3rd Step:** Link the file 'styles.css to about.html' in folder CSS.
+- [x] **about.html | 3rd Step:** Link the file 'styles.css to about' in the 'CSS" folder.
 
 **Timeline for beagle.html:**<br>
-- [x] **beagle.html | 1st Step:** Link 'index.html to beagle.html and about.html to beagle.html'.
+- [x] **beagle.html | 1st Step:** Link the 'index and the about files' to the beagle file.
 - [x] **beagle.html | 2nd Step:** Display the image 'beagle.jpg' located in the 'images/featured' folder.
-- [x] **beagle.html | 3rd Step:** Link the file 'styles.css to beagle.html' in folder CSS.
+- [x] **beagle.html | 3rd Step:** Link the file 'styles.css to beagle' in the 'CSS" folder.
 
 **Timeline for golden.html:**<br>
-- [x] **golden.html | 1st Step:** Link 'index.html to golden.html and about.html to golden.html'.
+- [x] **golden.html | 1st Step:** Link the 'index and the about files' to the golden file.
 - [x] **golden.html | 2nd Step:** Display the image 'golden.jpg' located in the 'images/featured' folder.
-- [x] **golden.html | 3rd Step:** Link the file 'styles.css to golden.html' in folder CSS.
+- [x] **golden.html | 3rd Step:** Link the file 'styles.css to golden' in the 'CSS" folder.
 
 **Timeline for husky.html:**<br>
-- [x] **husky.html | 1th Step:** Link 'index.html to husky.html and about.html to husky.html'.
+- [x] **husky.html | 1th Step:** Link the 'index and the about files' to the husky file.
 - [x] **husky.html | 2nd Step:** Display the image 'husky.jpg' located in the 'images/featured' folder.
-- [x] **husky.html | 3rd Step:** Link the file 'styles.css to husky.html' in folder CSS.
+- [x] **husky.html | 3rd Step:** Link the file 'styles.css to husky' in the 'CSS' folder.
 
 
 
